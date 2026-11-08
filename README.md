@@ -59,7 +59,7 @@ Minha meta é evoluir como desenvolvedor, construir projetos relevantes e criar 
 ---
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?u
+Confira meus repositórios e projetos na aba [Repositórios](https://github.com/
 ## 📫 Contato
 
 - GitHub: [@arthurdezanetdasilva-blip](https://github.com/arthurdezanetdasilva-blip)
