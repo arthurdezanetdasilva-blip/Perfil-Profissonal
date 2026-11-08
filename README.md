@@ -57,7 +57,21 @@ Minha meta é evoluir como desenvolvedor, construir projetos relevantes e criar 
   Portfólio pessoal para apresentação de projetos e habilidades.
 
 ---
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurdezanetdasilva-blip&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Arthur" />
+</p>
+
+## 📫 Contato
+
+- GitHub: [@arthurdezanetdasilva-blip](https://github.com/arthurdezanetdasilva-blip)
+- Email: [seu e-mail]
+- LinkedIn: [seu perfil do LinkedIn]
+
+---
+
+> Estou em constante evolução, aprendendo e construindo soluções com foco no meu crescimento profissional.
 ## 🛠️ Stack principal
 
 ```text
